@@ -1,0 +1,21 @@
+Teacher_id,Course_id,Section_id,Semester,Year,First_Name,Surname,Father_Name,Mother_Name,Gender,Birthday,Adress,Email
+T1,AAD,S1,1,2019,Marys,Rawdales,Avrom,Merrilee,Male,1/31/1960,0 Heath Park,arawdales0@nydailynews.com
+T2,COA,S1,1,2019,Abbie,de Zamora,Hill,Moreen,Female,11/12/1985,954 Fisk Avenue,hdezamora1@guardian.co.uk
+T3,P&S,S1,1,2019,Pepillo,Antonsson,Florian,Magdalene,Male,5/24/1982,56 Grover Terrace,fantonsson2@plala.or.jp
+T4,DB1,S1,1,2019,Jourdain,Coltart,Orton,Clare,Male,5/19/1974,6613 Vernon Park,ocoltart3@themeforest.net
+T5,SE1,S1,1,2019,Karleen,Southwick,Son,Manon,Male,5/18/1980,0223 Roxbury Terrace,ssouthwick4@indiegogo.com
+T6,DCO,S1,1,2019,Vanessa,Drysdall,Saundra,Vonni,Male,4/30/1972,7 Sullivan Street,sdrysdall5@php.net
+T7,SPR,S1,1,2019,Rowena,Hattigan,Rolph,Doti,Male,11/4/1969,01553 Lotheville Road,rhattigan6@simplemachines.org
+T8,PR2,S1,1,2019,Ayn,Havick,Anthony,Glenna,Female,8/28/1972,35995 Melody Center,ahavick7@yellowpages.com
+T9,DB2,S1,1,2019,Meggy,Wellings,Palm,Dina,Male,11/3/1995,9534 Londonderry Place,pwellings8@epa.gov
+T10,IA,S1,1,2019,Allison,Mardell,Mead,Fawn,Male,5/7/1990,0 Center Circle,mmardell9@tmall.com
+T11,IM,S1,1,2019,Willette,Lyness,Ogdon,Wilow,Female,8/29/1986,711 Judy Place,olynessa@ihg.com
+T12,IB,S1,1,2019,Thorin,Bunton,Scott,Carree,Female,6/8/1976,4 Butterfield Street,sbuntonb@umich.edu
+T13,IE,S1,1,2019,Helena,Gisbey,Filmer,Ernesta,Male,3/2/1962,6848 Grayhawk Lane,fgisbeyc@a8.net
+T14,CIE,S1,1,2019,Nero,Wenn,Meier,Belita,Female,12/28/1991,5 5th Avenue,mwennd@qq.com
+T15,CN1,S1,1,2019,Warner,De la Harpe,Willis,Selma,Female,6/20/1984,93 Aberg Plaza,wdelaharpee@live.com
+T16,DCO,S1,1,2019,Yoshiko,Cahn,Moritz,Fawnia,Male,3/18/1975,88100 Daystar Court,mcahnf@behance.net
+T17,SPR,S1,1,2019,Shaina,Richemond,Sandy,Aleta,Female,2/11/1984,7756 Dunning Drive,srichemondg@fc2.com
+T18,PR2,S1,1,2019,Vanya,Hrinchishin,Anthony,Jolynn,Male,6/2/1979,7481 Main Plaza,ahrinchishinh@hostgator.com
+T19,DB2,S1,1,2019,Euell,Beresfore,Hansiain,Vonny,Female,6/18/1987,3403 Russell Trail,hberesforei@opera.com
+T20,CN1,S1,1,2019,Sonnie,Bruyntjes,Ramsay,Dierdre,Female,9/1/1980,26 Cherokee Hill,rbruyntjesj@webeden.co.uk

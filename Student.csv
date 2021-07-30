@@ -1,0 +1,101 @@
+id,first_name,Surname,Father_Name,Mother_Name,Gender,Birthday,Adress,Email,DeptName,GPA,Academic_Year,Total_Cred,Specialization
+1,Blithe,Hobbing,Kelvin,Gael,Male,9/6/1998,08 Dryden Road,khobbing0@homestead.com,Faculty of Informatics and Communication Engineering,2.08,5,155,Informatics Engineering
+2,Allie,Geroldi,Fin,Lita,Male,7/9/1998,05 Marcy Hill,fgeroldi1@washington.edu,Faculty of Informatics and Communication Engineering,3.14,4,112,Communication Engineering
+3,Korey,Finlator,Car,Lydie,Male,3/7/1996,92 Michigan Junction,cfinlator2@pinterest.com,Faculty of Informatics and Communication Engineering,1.4,3,51,Informatics Engineering
+4,Leonid,Bentham,Matthieu,Elise,Female,5/15/2002,6894 Eastwood Avenue,mbentham3@qq.com,Faculty of Informatics and Communication Engineering,3.39,5,156,Informatics Engineering
+5,Guido,Battany,Harp,Bobbette,Female,5/6/1996,39 6th Court,hbattany4@liveinternet.ru,Faculty of Informatics and Communication Engineering,3.27,2,40,Communication Engineering
+6,Willamina,Traite,Winfield,Tammi,Male,5/12/1999,666 Warner Drive,wtraite5@mapy.cz,Faculty of Informatics and Communication Engineering,1.55,5,160,Informatics Engineering
+7,Kelci,Highnam,Nichole,Britt,Male,9/25/2001,66256 Havey Road,nhighnam6@newsvine.com,Faculty of Informatics and Communication Engineering,1.64,1,1,Informatics Engineering
+8,Lani,Scotchforth,Reinwald,Marie-jeanne,Male,9/13/1998,595 Messerschmidt Center,rscotchforth7@harvard.edu,Faculty of Informatics and Communication Engineering,2.18,3,76,Communication Engineering
+9,Katie,Dummett,Rogerio,Thelma,Female,7/28/1998,932 Lighthouse Bay Junction,rdummett8@naver.com,Faculty of Informatics and Communication Engineering,0.93,3,25,Informatics Engineering
+10,Burt,Hamlen,Hussein,Sonnnie,Female,8/30/1996,86059 Utah Drive,hhamlen9@diigo.com,Faculty of Informatics and Communication Engineering,0.62,3,86,Communication Engineering
+11,Halie,Cromar,Thibaut,Dianne,Female,10/29/2000,10 Schlimgen Crossing,tcromara@cpanel.net,Faculty of Informatics and Communication Engineering,3.7,3,80,Informatics Engineering
+12,Caitlin,Barczynski,Nelson,Kristi,Female,12/11/2002,86 Magdeline Way,nbarczynskib@xrea.com,Faculty of Informatics and Communication Engineering,2.22,2,24,Informatics Engineering
+13,Jeniffer,Serck,Curry,Cathyleen,Male,5/13/1999,50574 David Pass,cserckc@webmd.com,Faculty of Informatics and Communication Engineering,3.21,3,63,Communication Engineering
+14,Sigismund,Schoenrock,Salvatore,Carie,Male,1/4/1996,93 Barnett Circle,sschoenrockd@blinklist.com,Faculty of Informatics and Communication Engineering,0.79,4,99,Informatics Engineering
+15,Mark,Kings,Haroun,Madonna,Female,8/7/1999,461 Calypso Hill,hkingse@gnu.org,Faculty of Informatics and Communication Engineering,1.82,3,76,Communication Engineering
+16,Cesare,Starte,Kristo,Margot,Female,7/23/2002,54319 Oxford Pass,kstartef@youtube.com,Faculty of Informatics and Communication Engineering,2.4,3,70,Informatics Engineering
+17,Carry,McAllister,Karney,Rosamond,Male,4/1/1999,874 Green Ridge Circle,kmcallisterg@blogspot.com,Faculty of Informatics and Communication Engineering,2.86,1,9,Communication Engineering
+18,Chip,Evered,Alessandro,Penni,Male,3/4/2000,23 Oriole Hill,aeveredh@sina.com.cn,Faculty of Informatics and Communication Engineering,0.75,5,139,Informatics Engineering
+19,Patrizius,Esplin,Davon,Amelie,Female,3/2/2001,5088 Golf View Road,desplini@blogspot.com,Faculty of Informatics and Communication Engineering,1.81,1,12,Communication Engineering
+20,Poul,Crebott,Phillipp,Grayce,Male,4/1/1996,6 Sunfield Circle,pcrebottj@cargocollective.com,Faculty of Informatics and Communication Engineering,2.3,5,130,Informatics Engineering
+21,Ileana,Gaffer,Felice,Emmaline,Male,11/13/2001,5552 Westport Hill,fgafferk@infoseek.co.jp,Faculty of Informatics and Communication Engineering,0.85,3,34,Communication Engineering
+22,Mariann,Rosendahl,Kev,Suzette,Male,1/24/1999,0372 Dwight Plaza,krosendahll@sohu.com,Faculty of Informatics and Communication Engineering,3.51,4,83,Informatics Engineering
+23,Cordi,Cockaday,Steward,Marcelline,Male,9/20/2003,9 Birchwood Crossing,scockadaym@zimbio.com,Faculty of Informatics and Communication Engineering,0.95,5,120,Communication Engineering
+24,Nola,Grellier,Allen,Lind,Male,12/19/2003,71204 Mayer Road,agrelliern@furl.net,Faculty of Informatics and Communication Engineering,2.9,1,10,Informatics Engineering
+25,Norah,Emanuele,Cheston,Wenona,Female,7/21/2002,2 Fremont Circle,cemanueleo@geocities.jp,Faculty of Informatics and Communication Engineering,3.04,1,18,Communication Engineering
+26,Hakim,Snasel,Broddie,Ingeberg,Male,1/26/1996,427 Pankratz Plaza,bsnaselp@technorati.com,Faculty of Informatics and Communication Engineering,2.73,1,13,Informatics Engineering
+27,Sephira,Rawlence,Glenden,Doreen,Male,3/20/2002,536 Eagan Circle,grawlenceq@state.tx.us,Faculty of Informatics and Communication Engineering,3.93,5,133,Communication Engineering
+28,Norman,Kettlewell,Constantine,Beulah,Male,7/18/1999,816 Menomonie Avenue,ckettlewellr@zimbio.com,Faculty of Informatics and Communication Engineering,1.3,3,74,Informatics Engineering
+29,Zitella,Venners,Cory,Stephie,Female,11/6/2002,82 Elmside Plaza,cvennerss@ox.ac.uk,Faculty of Informatics and Communication Engineering,2.49,2,31,Communication Engineering
+30,Edan,Longbothom,Vladamir,Tandi,Male,12/6/1997,03 Shoshone Terrace,vlongbothomt@pinterest.com,Faculty of Informatics and Communication Engineering,2,2,23,Informatics Engineering
+31,Virgie,McKellen,Ewen,Bee,Female,7/31/2003,1 Homewood Hill,emckellenu@sakura.ne.jp,Faculty of Informatics and Communication Engineering,2.86,4,95,Communication Engineering
+32,Jarrad,Kira,Vanya,Alberta,Female,2/11/2003,30 Cody Point,vkirav@myspace.com,Faculty of Informatics and Communication Engineering,2.13,5,145,Informatics Engineering
+33,Rosie,Webborn,Alphonse,Alicea,Male,8/15/2003,080 Crownhardt Way,awebbornw@intel.com,Faculty of Informatics and Communication Engineering,1.17,5,137,Communication Engineering
+34,Randene,Silvermann,Burnard,Noni,Female,12/3/1998,90 Monica Avenue,bsilvermannx@sitemeter.com,Faculty of Informatics and Communication Engineering,2.18,3,48,Informatics Engineering
+35,Pierce,Riall,Gunner,Murial,Male,3/2/2001,8549 6th Park,grially@phpbb.com,Faculty of Informatics and Communication Engineering,2.99,1,18,Communication Engineering
+36,Imogene,Lorans,Salmon,Georgina,Female,9/23/1998,41 Holmberg Plaza,sloransz@usgs.gov,Faculty of Informatics and Communication Engineering,3.14,3,67,Informatics Engineering
+37,Lynnet,Wittier,Eric,Bride,Female,4/4/1999,29242 Derek Drive,ewittier10@latimes.com,Faculty of Informatics and Communication Engineering,2.62,4,87,Informatics Engineering
+38,Kelwin,Maccaddie,Kalvin,Gloriane,Female,8/15/1998,57987 Rieder Center,kmaccaddie11@princeton.edu,Faculty of Informatics and Communication Engineering,2.92,5,128,Communication Engineering
+39,Ingemar,Lopez,Tome,Millisent,Male,10/17/2001,673 Iowa Point,tlopez12@163.com,Faculty of Informatics and Communication Engineering,1.99,2,41,Communication Engineering
+40,Juieta,Littlefield,Duffy,Marie-jeanne,Female,11/21/1999,0949 Londonderry Junction,dlittlefield13@free.fr,Faculty of Informatics and Communication Engineering,3,2,28,Informatics Engineering
+41,Niles,Grzegorek,Gran,Regina,Male,1/6/1996,10 Forest Circle,ggrzegorek14@yellowpages.com,Faculty of Informatics and Communication Engineering,1.88,2,40,Communication Engineering
+42,Jeddy,Barnhart,Gibb,Stevena,Female,6/29/2003,3 Sommers Park,gbarnhart15@networksolutions.com,Faculty of Informatics and Communication Engineering,3,5,163,Informatics Engineering
+43,Jacquelyn,de Clerq,Fredrick,Lorianne,Male,10/24/2002,9715 Mandrake Junction,fdeclerq16@shutterfly.com,Faculty of Informatics and Communication Engineering,2.42,2,40,Communication Engineering
+44,Lara,Flewan,Ennis,Ora,Female,3/26/2000,3 5th Terrace,eflewan17@creativecommons.org,Faculty of Informatics and Communication Engineering,2.77,5,160,Informatics Engineering
+45,Katey,Coare,Adrien,Liane,Female,2/9/1999,27 Ridgeview Point,acoare18@gov.uk,Faculty of Informatics and Communication Engineering,2.3,4,77,Communication Engineering
+46,Thekla,Gellan,Crawford,Henriette,Male,12/13/1998,6 Hallows Pass,cgellan19@qq.com,Faculty of Informatics and Communication Engineering,3.7,1,8,Informatics Engineering
+47,Chaim,Meryett,Darrel,Danny,Male,10/9/1998,4124 Knutson Park,dmeryett1a@1und1.de,Faculty of Informatics and Communication Engineering,1.62,2,49,Communication Engineering
+48,Reidar,Stollsteiner,Frankie,Wenda,Male,1/31/2001,03 Union Road,fstollsteiner1b@creativecommons.org,Faculty of Informatics and Communication Engineering,2.58,5,123,Informatics Engineering
+49,Nikoletta,Alesin,Jerald,Fredia,Male,6/27/1996,529 Macpherson Point,jalesin1c@goo.ne.jp,Faculty of Informatics and Communication Engineering,3.89,5,164,Communication Engineering
+50,Kalila,Guinnane,Jayson,Stefanie,Male,7/13/1998,2830 Spenser Court,jguinnane1d@usa.gov,Faculty of Informatics and Communication Engineering,3.9,5,157,Informatics Engineering
+51,Charla,Collett,See,Sondra,Male,6/20/2003,800 Maywood Road,scollett1e@who.int,Faculty of Informatics and Communication Engineering,3.28,3,52,Communication Engineering
+52,Clayson,Middleweek,Claudianus,Con,Male,5/22/1996,5 Talmadge Hill,cmiddleweek1f@mit.edu,Faculty of Informatics and Communication Engineering,2.03,5,165,Informatics Engineering
+53,Jenn,Filintsev,Deane,Vinny,Male,12/30/1997,3302 Saint Paul Road,dfilintsev1g@wp.com,Faculty of Informatics and Communication Engineering,2.71,4,113,Communication Engineering
+54,Stavro,Rouse,Marijn,Gertie,Male,1/26/1998,151 Hauk Circle,mrouse1h@symantec.com,Faculty of Informatics and Communication Engineering,1.5,3,57,Informatics Engineering
+55,Fanya,Sillito,Lawrence,Henriette,Male,8/20/1996,5 Clove Circle,lsillito1i@wikispaces.com,Faculty of Informatics and Communication Engineering,3.35,4,93,Communication Engineering
+56,Yasmeen,Jiroutka,Tripp,Trudey,Female,4/28/2001,2494 Corben Point,tjiroutka1j@webmd.com,Faculty of Informatics and Communication Engineering,1.57,3,53,Informatics Engineering
+57,Gavrielle,Shinner,Eustace,Lyn,Female,10/9/1997,8 Reinke Lane,eshinner1k@ezinearticles.com,Faculty of Informatics and Communication Engineering,0.93,3,64,Communication Engineering
+58,Melly,Caldecutt,Norton,Hyacinth,Female,5/25/2000,7330 Kensington Circle,ncaldecutt1l@naver.com,Faculty of Informatics and Communication Engineering,3.63,3,73,Informatics Engineering
+59,Ebonee,Buttler,Erwin,Sophia,Male,6/16/2001,6943 Dorton Way,ebuttler1m@ebay.com,Faculty of Informatics and Communication Engineering,2.4,5,156,Communication Engineering
+60,Briant,Dignall,Ancell,Bevvy,Male,10/11/2001,0 Steensland Plaza,adignall1n@shutterfly.com,Faculty of Informatics and Communication Engineering,1.43,1,1,Informatics Engineering
+61,Pacorro,Hughs,Armin,Tammy,Female,2/14/1999,26232 Declaration Street,ahughs1o@lulu.com,Faculty of Informatics and Communication Engineering,1.31,5,130,Communication Engineering
+62,Tootsie,Barwise,Gradeigh,Aurea,Female,11/6/1999,53876 Huxley Lane,gbarwise1p@skype.com,Faculty of Informatics and Communication Engineering,1.64,2,23,Informatics Engineering
+63,Rochester,Cobbold,Ezri,Lethia,Female,8/18/2003,56 Melody Lane,ecobbold1q@discovery.com,Faculty of Informatics and Communication Engineering,1.25,5,120,Communication Engineering
+64,Carmella,Beig,Alasdair,Nana,Female,12/15/1996,29 Judy Plaza,abeig1r@comsenz.com,Faculty of Informatics and Communication Engineering,1.55,5,128,Informatics Engineering
+65,Missy,Mabbe,Rice,Idalina,Male,2/25/2002,97 Morningstar Center,rmabbe1s@stanford.edu,Faculty of Informatics and Communication Engineering,1.6,4,107,Communication Engineering
+66,Rickert,Gimblet,Hi,Gaylene,Female,3/13/1996,13509 Evergreen Circle,hgimblet1t@php.net,Faculty of Informatics and Communication Engineering,0.85,5,126,Informatics Engineering
+67,Charity,Dennerly,Whitman,Frieda,Female,11/13/1997,9328 Independence Center,wdennerly1u@wikispaces.com,Faculty of Informatics and Communication Engineering,1.73,5,163,Communication Engineering
+68,Gill,Lefeuvre,Milo,Jessi,Male,8/15/2002,62 Namekagon Place,mlefeuvre1v@godaddy.com,Faculty of Informatics and Communication Engineering,2.03,4,85,Informatics Engineering
+69,Kylie,Clee,Codie,Ansley,Male,8/18/1997,2 Knutson Court,cclee1w@irs.gov,Faculty of Informatics and Communication Engineering,2.11,1,10,Communication Engineering
+70,Morganica,Corpe,Bailey,Patrice,Male,1/17/2003,6 Schurz Drive,bcorpe1x@nyu.edu,Faculty of Informatics and Communication Engineering,3.28,1,19,Informatics Engineering
+71,Casey,Simondson,Zed,Shawnee,Male,2/8/1996,57577 Melby Street,zsimondson1y@furl.net,Faculty of Informatics and Communication Engineering,2.16,5,161,Communication Engineering
+72,Tyne,Shelley,Arie,Lethia,Female,8/26/1996,5109 Granby Lane,ashelley1z@europa.eu,Faculty of Informatics and Communication Engineering,1.12,1,6,Informatics Engineering
+73,Trixie,Danat,Town,Helen-elizabeth,Male,2/17/2003,29 Maryland Drive,tdanat20@vimeo.com,Faculty of Informatics and Communication Engineering,1.86,5,148,Communication Engineering
+74,Chris,Pavia,Anatole,Raquela,Male,6/26/1998,88925 Clemons Plaza,apavia21@mediafire.com,Faculty of Informatics and Communication Engineering,0.91,5,125,Informatics Engineering
+75,Clywd,Gwillym,Cesaro,Kessia,Male,10/21/1999,38 Oxford Street,cgwillym22@prlog.org,Faculty of Informatics and Communication Engineering,3.91,2,29,Communication Engineering
+76,Noland,Nucciotti,Delbert,Kissee,Female,11/5/2003,9982 Havey Plaza,dnucciotti23@psu.edu,Faculty of Informatics and Communication Engineering,3.09,5,110,Informatics Engineering
+77,Dael,Hedlestone,Buckie,Kevyn,Female,9/16/1997,8373 Monterey Avenue,bhedlestone24@jugem.jp,Faculty of Informatics and Communication Engineering,2.12,5,152,Communication Engineering
+78,Nico,Chapier,Innis,Karlee,Female,7/10/1997,09492 Kings Parkway,ichapier25@uol.com.br,Faculty of Informatics and Communication Engineering,0.75,4,92,Informatics Engineering
+79,Gan,Beckmann,Stanislaus,Hannie,Male,11/15/1997,0 Sherman Pass,sbeckmann26@miibeian.gov.cn,Faculty of Informatics and Communication Engineering,1.69,5,162,Communication Engineering
+80,Donnie,Simonot,Trever,Ynez,Male,2/3/1996,9 Longview Place,tsimonot27@unesco.org,Faculty of Informatics and Communication Engineering,0.84,2,38,Informatics Engineering
+81,Everett,McLeary,Haskel,Inez,Male,11/13/1997,38 Reinke Hill,hmcleary28@europa.eu,Faculty of Informatics and Communication Engineering,1.57,4,83,Communication Engineering
+82,Lindsay,Younglove,Court,Billy,Male,3/2/1996,0 Ruskin Park,cyounglove29@kickstarter.com,Faculty of Informatics and Communication Engineering,1.13,2,47,Informatics Engineering
+83,Ax,Hedditeh,Ingelbert,Latrena,Female,3/2/1998,467 Elgar Terrace,ihedditeh2a@webs.com,Faculty of Informatics and Communication Engineering,0.81,5,136,Informatics Engineering
+84,Jared,Gready,Henri,Min,Female,11/17/2002,943 Calypso Center,hgready2b@elegantthemes.com,Faculty of Informatics and Communication Engineering,1.15,5,135,Communication Engineering
+85,Marjorie,Urridge,Pyotr,Eveline,Female,5/3/2000,9787 Jenifer Plaza,purridge2c@ow.ly,Faculty of Informatics and Communication Engineering,4,2,50,Communication Engineering
+86,Yul,Sousa,Gustavus,Margaret,Male,2/1/1999,8 Mayer Lane,gsousa2d@hp.com,Faculty of Informatics and Communication Engineering,3.52,4,112,Informatics Engineering
+87,Purcell,Mouncher,Jamil,Arliene,Male,1/8/1996,4492 Golden Leaf Place,jmouncher2e@geocities.com,Faculty of Informatics and Communication Engineering,2.13,5,149,Communication Engineering
+88,Zebadiah,Demageard,Guglielmo,Josepha,Male,3/12/1998,8968 John Wall Point,gdemageard2f@skyrock.com,Faculty of Informatics and Communication Engineering,2.3,2,36,Informatics Engineering
+89,Foster,Groocock,Carolus,Victoria,Male,5/13/1998,79575 Ridgeway Point,cgroocock2g@techcrunch.com,Faculty of Informatics and Communication Engineering,3.91,4,77,Communication Engineering
+90,Remington,Wissbey,Elvis,Bianka,Female,5/25/1996,89145 Granby Hill,ewissbey2h@discovery.com,Faculty of Informatics and Communication Engineering,3.41,4,96,Informatics Engineering
+91,Antonie,Collomosse,Emlyn,Jandy,Female,6/8/2003,3465 Forest Run Road,ecollomosse2i@moonfruit.com,Faculty of Informatics and Communication Engineering,1.41,4,91,Communication Engineering
+92,Rafaela,Brittoner,Ax,Millicent,Male,10/30/1996,51146 Washington Center,abrittoner2j@europa.eu,Faculty of Informatics and Communication Engineering,3.93,4,101,Informatics Engineering
+93,Gilemette,Edmondson,Heath,Winna,Male,9/23/2001,550 Saint Paul Point,hedmondson2k@google.com,Faculty of Informatics and Communication Engineering,0.66,4,96,Informatics Engineering
+94,Dasya,Halgarth,Bradney,Sydney,Female,8/13/2001,5192 Bellgrove Terrace,bhalgarth2l@theatlantic.com,Faculty of Informatics and Communication Engineering,1.21,3,64,Communication Engineering
+95,Alta,Zanni,Humfrid,Elva,Female,5/6/1996,8509 Longview Lane,hzanni2m@reference.com,Faculty of Informatics and Communication Engineering,2.4,2,36,Informatics Engineering
+96,Carley,Whitesel,Saleem,Hester,Male,9/3/1997,056 Thompson Street,swhitesel2n@alibaba.com,Faculty of Informatics and Communication Engineering,1.98,5,136,Informatics Engineering
+97,Vonnie,Losebie,Wayne,Veronika,Female,12/5/1996,09613 Elmside Trail,wlosebie2o@privacy.gov.au,Faculty of Informatics and Communication Engineering,3.41,5,153,Communication Engineering
+98,Elia,Yerrell,Derk,Marci,Male,11/17/1998,12 Brown Plaza,dyerrell2p@guardian.co.uk,Faculty of Informatics and Communication Engineering,3.4,4,98,Informatics Engineering
+99,Corrie,Kinleyside,Craggie,Beverlee,Female,1/3/1999,934 Pawling Avenue,ckinleyside2q@newyorker.com,Faculty of Informatics and Communication Engineering,3.99,1,5,Communication Engineering
+100,Oralia,Lidgerton,Nate,Jenica,Female,12/5/1999,68794 Union Trail,nlidgerton2r@dedecms.com,Faculty of Informatics and Communication Engineering,3.06,2,27,Informatics Engineering
